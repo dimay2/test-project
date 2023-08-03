@@ -1,5 +1,5 @@
 # Sample code to send data to Azure Monitor using Logs ingestion API
-# commit 2
+# commit 3
 
 # information needed to send data to the DCR endpoint
 dce_endpoint = "https://log-ingestion-a4bc.eastus-1.ingest.monitor.azure.com" # ingestion endpoint of the Data Collection Endpoint object
